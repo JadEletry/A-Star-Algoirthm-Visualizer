@@ -4,3 +4,8 @@
 #### The file provided has already imported pygame
 
 ## Preview
+### Use left click to set two nodes (green then yellow) and draw barriers (black) anywhere on the grid.
+![Initial](/images/pygame1.png)
+<br/>
+### Press space bar to see the algorithm work and produce the shortest path (grey) between the two chosen nodes.
+![Final](/images/pygame2.png)
